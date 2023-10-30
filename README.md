@@ -44,10 +44,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/csharp-498efc?style=for-the-badge&logo=csharp&logoColor=white"/>
   <br/>
   <h2>Dev Tools</h2>
-  <img src="https://github.com/bookbookss6/bookbookss6/assets/118971316/6e3b657a-d970-40b6-b3a6-5278fb881c4e" width="40px" height="40px"/>
-  <img src="https://github.com/bookbookss6/bookbookss6/assets/118971316/6b4b6bda-dd1f-43f2-8c5c-157248491700" width="40px" height="40px"/>
-  <img src="https://github.com/bookbookss6/bookbookss6/assets/118971316/15623d30-32d4-431c-8a27-82adcff9d120" width="80px" height="40px"/>
-  <img src="https://github.com/bookbookss6/bookbookss6/assets/118971316/09ad17b7-e3ed-4029-bd23-6764e0d040f6" width="40px" height="40px"/>
-
+  <img src="https://github.com/bookbookss6/bookbookss6/assets/118971316/f056b036-b9a7-41c7-bcd2-6f2d44b18553" width="40px" height="40px"/>
+  <img src="https://github.com/bookbookss6/bookbookss6/assets/118971316/82e5f5b5-9865-4995-9741-68b1efc30fef" width="40px" height="40px"/>
+  <img src="https://github.com/bookbookss6/bookbookss6/assets/118971316/28cbeafb-058b-4845-952e-761379379b66" width="80px" height="40px"/>
+  <img src="https://github.com/bookbookss6/bookbookss6/assets/118971316/9a2a8c8b-ef9e-475c-9919-f88b979d4526" width="40px" height="40px"/>
 
 </div>
