@@ -45,8 +45,8 @@ Here are some ideas to get you started:
   <br/>
   <h2>Dev Tools</h2>
   <img src="https://github.com/bookbookss6/bookbookss6/assets/118971316/f056b036-b9a7-41c7-bcd2-6f2d44b18553" width="40px" height="40px"/>
-  <img src="https://github.com/bookbookss6/bookbookss6/assets/118971316/82e5f5b5-9865-4995-9741-68b1efc30fef" width="40px" height="40px"/>
-  <img src="https://github.com/bookbookss6/bookbookss6/assets/118971316/28cbeafb-058b-4845-952e-761379379b66" width="80px" height="40px"/>
+  <img src="https://github.com/bookbookss6/bookbookss6/assets/118971316/82e5f5b5-9865-4995-9741-68b1efc30fef" width="80px" height="40px"/>
+  <img src="https://github.com/bookbookss6/bookbookss6/assets/118971316/28cbeafb-058b-4845-952e-761379379b66" width="40px" height="40px"/>
   <img src="https://github.com/bookbookss6/bookbookss6/assets/118971316/9a2a8c8b-ef9e-475c-9919-f88b979d4526" width="40px" height="40px"/>
 
 </div>
